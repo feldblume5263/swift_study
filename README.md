@@ -1,4 +1,4 @@
-# <img src= "https://github.com/feldblume5263/swift_study/blob/master/swift.png?raw=true" width= "300"> Swift Study
+# <img src= "https://github.com/feldblume5263/swift_study/blob/master/swift.png?raw=true" width= "100"> Swift Study
 ************
    
 | Datum | Chapter | was ich gelernt habe |
