@@ -1,6 +1,6 @@
 # Swift study
-********
-<img src= "https://github.com/feldblume5263/swift_study/blob/master/.logo.eps" width= "300">
+************
+<img src= "https://github.com/feldblume5263/swift_study/blob/master/swift.png?raw=true" width= "300">
 
    
 | Datum | Chapter | was ich gelernt habe |
