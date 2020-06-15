@@ -6,5 +6,5 @@
 | 2020/06/14 | chapter9 | Unterschied zwischen @IBOutlet und @IBAction |
 | | | wie man ein Bild rund macht |
 | | | UITableViewController und UITableViewCell |
-
-
+| 2020/06/15 | chapter10 | UIAlertcontroller, .alert, .actionSheet |
+| | | .checkmark , .none |
