@@ -38,7 +38,7 @@
                                                     </userDefinedRuntimeAttributes>
                                                 </imageView>
                                                 <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="O2Y-B5-flr">
-                                                    <rect key="frame" x="75" y="0.0" width="293" height="58.5"/>
+                                                    <rect key="frame" x="75" y="0.0" width="228" height="58.5"/>
                                                     <subviews>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ERT-SD-yKM">
                                                             <rect key="frame" x="0.0" y="0.0" width="47" height="20.5"/>
@@ -60,6 +60,9 @@
                                                         </label>
                                                     </subviews>
                                                 </stackView>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="EhE-8X-ufi">
+                                                    <rect key="frame" x="318" y="0.0" width="50" height="50"/>
+                                                </imageView>
                                             </subviews>
                                         </stackView>
                                     </subviews>
@@ -71,6 +74,7 @@
                                     </constraints>
                                 </tableViewCellContentView>
                                 <connections>
+                                    <outlet property="heartImageView" destination="EhE-8X-ufi" id="rqx-BX-0Zg"/>
                                     <outlet property="locationLabel" destination="Ajw-Hm-tbf" id="0B1-Du-lc5"/>
                                     <outlet property="nameLabel" destination="ERT-SD-yKM" id="VCa-Wf-Lzm"/>
                                     <outlet property="thumbnailImageView" destination="UyA-oc-YVb" id="MEp-fD-bDu"/>
