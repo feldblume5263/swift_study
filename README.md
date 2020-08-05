@@ -1,10 +1,8 @@
 # <img src= "https://github.com/feldblume5263/swift_study/blob/master/swift.png?raw=true" width= "100"> Swift Study
 ************
-   
-| Datum | Chapter | was ich gelernt habe |
-| :----: | :----:| :----: |
-| 2020/06/14 | chapter9 | Unterschied zwischen @IBOutlet und @IBAction |
-| | | wie man ein Bild rund macht |
-| | | UITableViewController und UITableViewCell |
-| 2020/06/15 | chapter10 | UIAlertcontroller, .alert, .actionSheet |
-| | | .checkmark , .none |
+
+#### BoostCourse iOS: [link](https://www.edwith.org/boostcourse-ios/joinLectures/12966) {
+| projectName | Topic | Duration |
+| :---------: | :---: | :------: |
+| MusicPlayer | IBOutlet, IBAction | 2020/08/04 |
+|             | UIButton, UISlider, UILabel | 2020/08/04 ~ 2020/08/05 |
