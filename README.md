@@ -1,7 +1,7 @@
 # <img src= "https://github.com/feldblume5263/swift_study/blob/master/swift.png?raw=true" width= "100"> Swift Study
 ************
 
-#### BoostCourse iOS: [Link](https://www.edwith.org/boostcourse-ios/joinLectures/12966) = naverConnect {
+#### Class BoostCourse iOS: [Link](https://www.edwith.org/boostcourse-ios/joinLectures/12966), NaverConnect {
 | projectName | Topic | Duration |
 | :---------: | :---: | :------: |
 | MusicPlayer | IBOutlet, IBAction | 2020/08/04 |
