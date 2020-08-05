@@ -11,9 +11,11 @@ import AVFoundation
 
 class ViewController: UIViewController, AVAudioPlayerDelegate {
 
+    // MARK: - Properties
     var player: AVAudioPlayer!
     var timer: Timer!
     
+    // MARK: - Methods
     @IBOutlet var playPauseButton: UIButton! // 인스턴스 프로퍼티이다.
     @IBOutlet var timeLabel: UILabel!
     @IBOutlet var progressSlider: UISlider!
