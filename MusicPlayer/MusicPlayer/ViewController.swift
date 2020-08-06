@@ -179,7 +179,7 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
         if sender.isSelected {
             self.makeAndFireTimer()
         } else {
-            self.invalidateTImer()
+            self.invalidateTimer()
         }
     }
 

@@ -8,5 +8,5 @@
 |             | UIButton, UISlider, UILabel | 2020/08/04 ~ 08/05 |
 |             | CocoaTouch, UIKit, Foundation | 2020/08/05 |
 |             | AutoLayout| 2020/08/05 ~ 2020/08/06 |
-|             | View | 2020/08/06 ~ |
+|             | View | 2020/08/06 |
 #### }
